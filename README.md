@@ -86,7 +86,7 @@ Smart\_Finance/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/Smart_Finance.git
+[git clone https://github.com/HanishaDuvvuri27/Personal_finance_typeface.git]
 cd Smart_Finance
 ````
 

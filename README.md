@@ -53,7 +53,7 @@ Personal Finance is a full-stack web application that allows users to track and 
 
 ```
 
-Smart\_Finance/
+Personal_finance_typeface/
 ├── backend/
 │   ├── controllers/       # Logic for auth, transactions, analytics
 │   ├── models/            # Mongoose schemas
@@ -87,7 +87,7 @@ Smart\_Finance/
 ### 1. Clone the Repo
 ```bash
 [git clone https://github.com/HanishaDuvvuri27/Personal_finance_typeface.git]
-cd Smart_Finance
+cd Personal_finance_typeface
 ````
 
 ### 2. Set up Backend

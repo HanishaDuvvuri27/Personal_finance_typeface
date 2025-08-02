@@ -6,24 +6,24 @@ Personal Finance is a full-stack web application that allows users to track and 
 
 ## Features
 
-### 🔒 Authentication
+###  Authentication
 - User registration and login (JWT-based).
 - Auth middleware to protect private routes.
 
-### 💸 Expense Tracking
+###  Expense Tracking
 - Add expenses manually via form.
 - Upload receipts (images or PDFs) to auto-extract merchant name, date, and amount using Tesseract.js OCR.
 - Transactions are stored and linked to users.
 
-### 📊 Analytics
+###  Analytics
 - Track total expenses, income, and top categories.
 - Visual summary on dashboard.
 
-### 📂 Categories
+###  Categories
 - Auto-tagging of transactions into default categories like Food, Shopping, Travel, etc.
 - Manual category adjustments.
 
-### 📤 Upload System
+###  Upload System
 - OCR parser reads receipt content (not filenames).
 - Fallback default: Adds a dummy transaction (Flipkart, ₹2198, Shopping, current date) if no data extracted.
 
@@ -145,6 +145,6 @@ npm run dev
 ---
 
 Author
-## Duvvuri Venkata Nirmala Hanisha
+## HANISHA DUVVURI
 
 

@@ -144,7 +144,7 @@ npm run dev
 
 ---
 
-Author**
-Duvvuri Venkata Nirmala Hanisha**
+Author
+## Duvvuri Venkata Nirmala Hanisha
 
 

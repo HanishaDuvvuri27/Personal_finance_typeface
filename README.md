@@ -144,8 +144,7 @@ npm run dev
 
 ---
 
-Author
-Duvvuri Venkata Nirmala Hanisha
+Author**
+Duvvuri Venkata Nirmala Hanisha**
 
-Let me know if you'd like me to directly create this as a `README.md` file in your project directory or help you publish it to GitHub.
-```
+
